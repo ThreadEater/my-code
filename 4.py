@@ -11,5 +11,4 @@ def main():
             j = 1
     print(number1,'=','*'.join(factor))
 if (__name__ == '__main__'):
-    main()      
-            
+    main()  
